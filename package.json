@@ -1,0 +1,23 @@
+{
+  "name": "geturlparameters",
+  "version": "1.0.0",
+  "description": "Gets the URL parameters as a dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkovacs/geturlparameters.git"
+  },
+  "keywords": [
+    "parameters",
+    "url"
+  ],
+  "author": "Geza Kovacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/geturlparameters/issues"
+  },
+  "homepage": "https://github.com/gkovacs/geturlparameters#readme"
+}
